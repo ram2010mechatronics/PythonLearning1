@@ -1,4 +1,0 @@
-i=http://www.w3.org/2001/XMLSchema-instance
-ns1=http://www.visa.com/avs/
-s=http://schemas.xmlsoap.org/soap/envelope/
-a=http://www.visa.com/avs

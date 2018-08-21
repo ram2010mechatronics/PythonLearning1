@@ -1,9 +1,0 @@
-<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:weat="http://ws.cdyne.com/WeatherWS/">
-   <soapenv:Header/>
-   <soapenv:Body>
-      <weat:GetCityWeatherByZIP>
-         <!--Optional:-->
-         <weat:ZIP>${ZIP}</weat:ZIP>
-      </weat:GetCityWeatherByZIP>
-   </soapenv:Body>
-</soapenv:Envelope>
